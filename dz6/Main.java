@@ -97,6 +97,7 @@ public class Main {
                 System.out.println("----------------------------------------------------------------");
             }
             else if (menu_item.equals(6)){
+                System.out.println("Пришло время прощаться, заглядывайте к нам в магазин позже!");
                 flag=false;
                 break;
             }
